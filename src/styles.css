@@ -1,0 +1,15 @@
+.App {
+  max-width: 600px;
+  margin: auto;
+  padding: 2rem;
+  border: 1px solid black;
+  margin-top: 6rem;
+  border-radius: 3rem;
+  background-color: #34d399;
+}
+
+body {
+  font-family: "Lato", sans-serif;
+  background-color: #efefef;
+  color: #1f2937;
+}
