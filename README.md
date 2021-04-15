@@ -1,2 +1,1 @@
-# iplPredictions
-Created with CodeSandbox
+made with react
